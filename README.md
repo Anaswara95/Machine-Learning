@@ -25,7 +25,6 @@ In this project, I performed an analysis of property prices in the city of Banga
 
 
 
-# Hypothesis Testing
 
 # Hypothesis Testing
 
@@ -33,19 +32,28 @@ In this project, I performed an analysis of property prices in the city of Banga
 In this project, we perform hypothesis tests to analyze claims made in two different scenarios. Hypothesis testing is a statistical method used to make inferences about population parameters based on sample data. 
 
 ## Tasks
-### Task 1: Child Psychologist's Claim
-- **Claim:** A child psychologist states that the average time working mothers spend talking to their children is at least 11 minutes per day.
-- **Sample:** A random sample of 1000 working mothers is taken, and their average time spent talking to children is found to be 11.5 minutes per day.
-- **Population Standard Deviation:** Prior research suggests the population standard deviation is 2.3 minutes.
-- **Hypothesis Test:** We conduct a hypothesis test with a level of significance (alpha) of 0.05 to determine if there is enough evidence to support the psychologist's claim.
+## Task 1: Child Psychologist's Claim
 
-### Task 2: Coffee Shop's Claim
-- **Claim:** A coffee shop claims that their average wait time for customers is less than 5 minutes.
-- **Sample:** A sample of 40 customers is taken, and their wait times are recorded. The sample mean wait time is found to be 4.6 minutes with a standard deviation of 0.8 minutes.
-- **Hypothesis Test:** We perform a hypothesis test at a significance level of 0.05 to determine whether there is enough evidence to support the coffee shop's claim.
+- Claim: A child psychologist asserts that the average time working mothers spend talking to their children is at least 11 minutes per day.
+- Sample: A random sample of 1000 working mothers was selected, revealing an average time of 11.5 minutes spent talking to children per day.
+- Population Standard Deviation: Previous research suggests a population standard deviation of 2.3 minutes.
+- Hypothesis Test: A hypothesis test was conducted with a significance level (alpha) of 0.05 to ascertain if there is sufficient evidence to support the psychologist's claim.
+- Additional Note: Since we have a sample size of 1000, which exceeds 30, and we possess information about the sample mean, standard deviation, and aim to compare the sample mean to a 
+  population value, a Z-test is appropriate.
+
+***Result: The calculated z-score (6.88) significantly exceeds the critical value (1.645), leading to the rejection of the null hypothesis. Therefore, there is substantial evidence to conclude that working mothers spend more than 11 minutes per day talking to their children.***
+
+## Task 2: Coffee Shop's Claim
+
+- Claim: A coffee shop asserts that their average wait time for customers is less than 5 minutes.
+- Sample: A sample of 40 customers was observed, yielding an average wait time of 4.6 minutes with a standard deviation of 0.8 minutes.
+- Hypothesis Test: A hypothesis test was conducted at a significance level of 0.05 to determine if there is adequate evidence to support the coffee shop's claim.
+- Additional Note: Since the sample size is small (typically <30) and the population standard deviation is unknown, a t-test is appropriate for this scenario.
+
+***Result: The calculated t-value (-3.16) is lower than the critical t-value (-1.685), leading to the failure to accept the null hypothesis. This indicates sufficient evidence to support the claim that the average wait time for customers is less than 5 minutes at a significance level of 0.05.***
 
 ## Conclusion
 Hypothesis testing allows us to evaluate claims or hypotheses about population parameters using sample data. By setting up null and alternative hypotheses and conducting appropriate tests, we can make informed decisions about the validity of these claims. The results of these tests provide valuable insights for decision-making in various fields.
 
-Feel free to explore the code and results provided in this repository for a deeper understanding of hypothesis testing procedures.
+
 
