@@ -56,4 +56,6 @@ In this project, we perform hypothesis tests to analyze claims made in two diffe
 Hypothesis testing allows us to evaluate claims or hypotheses about population parameters using sample data. By setting up null and alternative hypotheses and conducting appropriate tests, we can make informed decisions about the validity of these claims. The results of these tests provide valuable insights for decision-making in various fields.
 
 
+# DATA PREPROCESSING
 
+[DATASET](https://drive.google.com/drive/folders/18rpobr58R_e8zrp26Nk1ievYmhHB7_kT?usp=sharing)
