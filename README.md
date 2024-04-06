@@ -58,4 +58,19 @@ Hypothesis testing allows us to evaluate claims or hypotheses about population p
 
 # DATA PREPROCESSING
 
+## Objective:
+***This project aims to develop a reliable data preprocessing system to enhance the quality and usability of datasets for machine learning applications. By addressing issues like missing values, outliers, and inconsistent formatting, we strive to improve data integrity and analysis outcomes.***
+
 [DATASET](https://drive.google.com/drive/folders/18rpobr58R_e8zrp26Nk1ievYmhHB7_kT?usp=sharing)
+
+## Key Components:
+- ***Data Exploration:*** Understand dataset structure, identify unique values, and perform basic statistical analysis
+- ***Data Cleaning:*** Handle missing values, remove duplicates, and address outliers.
+- ***Data Analysis:*** Filter and visualize data based on specific criteria.
+- ***Data Encoding:*** Convert categorical variables into numerical representations.
+- ***Feature Scaling:*** Standardize or normalize feature values for improved model performance.
+
+## Next Steps:
+- Explore the provided dataset and run the preprocessing script to observe its effects.
+- Experiment with different preprocessing techniques to optimize data quality.
+- Share feedback or suggest improvements to enhance the preprocessing system.
