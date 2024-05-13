@@ -76,6 +76,7 @@ Hypothesis testing allows us to evaluate claims or hypotheses about population p
 - Share feedback or suggest improvements to enhance the preprocessing system.
 
 # Linear Regression
+## Car Price Prediction with Linear Regression
 
 [DATASET](https://drive.google.com/file/d/1aZp__A7mMpewcLwGbopkxQIKTG03vd41/view?usp=sharing)
 
