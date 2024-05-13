@@ -74,3 +74,28 @@ Hypothesis testing allows us to evaluate claims or hypotheses about population p
 - Explore the provided dataset and run the preprocessing script to observe its effects.
 - Experiment with different preprocessing techniques to optimize data quality.
 - Share feedback or suggest improvements to enhance the preprocessing system.
+
+# Linear Regression
+
+[DATASET](https://drive.google.com/file/d/1aZp__A7mMpewcLwGbopkxQIKTG03vd41/view?usp=sharing)
+
+## Introduction:
+
+Welcome to my project on predicting car prices using linear regression! I've analyzed a dataset containing information about different cars, like horsepower, mileage, and more. Using this data, I've built a model to predict car prices based on these features.
+
+## Objective:
+
+The goal is to develop a model that accurately estimates car prices based on their characteristics. We'll use linear regression to understand how features influence price and create a model for reliable predictions.
+
+### Approach:
+
+- ***Data Exploration***: Understand the dataset's structure and relationships between features and prices.
+- ***Data Preprocessing***: Handle missing values, encode categorical variables, and scale numerical features.
+- ***Model Building***: Use linear regression to learn the relationship between input features and prices.
+- ***Model Evaluation***: Assess the model's performance using metrics like R-squared and Mean Squared Error.
+- ***Prediction***: Use the trained model to predict car prices.
+
+## Conclusion:
+
+This project demonstrates how linear regression can predict car prices accurately. By analyzing the dataset and building a predictive model, we gain insights into factors influencing car prices and provide a practical tool for estimating values.
+
