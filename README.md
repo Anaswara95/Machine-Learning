@@ -100,3 +100,23 @@ The goal is to develop a model that accurately estimates car prices based on the
 
 This project demonstrates how linear regression can predict car prices accurately. By analyzing the dataset and building a predictive model, we gain insights into factors influencing car prices and provide a practical tool for estimating values.
 
+
+# Clustering Analysis on the Iris Dataset
+
+This project applies various clustering methods to the Iris dataset to uncover hidden patterns in the data. We use K-means clustering, Agglomerative clustering, and Hierarchical clustering, and evaluate their performance.
+
+## Dataset
+
+The Iris dataset contains 150 samples of iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. There are three species: Iris setosa, Iris versicolor, and Iris virginica.
+
+
+## Clustering Techniques
+
+***1. K-means Clustering:*** Partitions data into K clusters by minimizing the variance within each cluster.
+
+***2. Agglomerative Clustering:*** Builds clusters hierarchically using the Ward linkage method.
+
+***3. Hierarchical Clustering:*** Produces a dendrogram to visualize nested groupings.
+
+### Evaluation Metric
+- ***Silhouette Coefficient:*** Measures how similar a point is to its own cluster compared to other clusters. Higher values indicate better-defined clusters.
