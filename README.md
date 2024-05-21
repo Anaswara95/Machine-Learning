@@ -117,3 +117,25 @@ The Iris dataset contains 150 samples of iris flowers, each with four features: 
 
 ### Evaluation Metric
 - ***Silhouette Coefficient:*** Measures how similar a point is to its own cluster compared to other clusters. Higher values indicate better-defined clusters.
+
+
+# Classifiction Analysis on Iris Dataset
+
+The Iris dataset is one of the most well-known datasets in the field of machine learning. It contains measurements of four features (sepal length, sepal width, petal length, and petal width) for 150 iris flowers, along with the species of each flower (setosa, versicolor, or virginica). This dataset is often used for testing and comparing classification algorithms
+
+***1.Logistic Regression:*** A statistical model that predicts the probability of a categorical outcome based on one or more predictor variables.
+
+***2.Decision Tree Classifier:*** A model that splits the data into branches based on feature values to make predictions.
+
+***3.Random Forest Classifier:*** An ensemble method that uses multiple decision trees to improve classification accuracy.
+
+***4.K-Nearest Neighbors (KNN):*** A simple, instance-based learning algorithm that classifies data points based on the labels of their nearest neighbors.
+
+***5.Naive Bayes:*** A probabilistic classifier that applies Bayes' theorem with the assumption of feature independence.
+
+
+
+
+
+
+
