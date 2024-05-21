@@ -75,7 +75,9 @@ Hypothesis testing allows us to evaluate claims or hypotheses about population p
 - Experiment with different preprocessing techniques to optimize data quality.
 - Share feedback or suggest improvements to enhance the preprocessing system.
 
-## Car Price Prediction different Algorithms
+
+
+## Car Price Prediction using different Algorithms
 
 [DATASET](https://drive.google.com/file/d/1aZp__A7mMpewcLwGbopkxQIKTG03vd41/view?usp=sharing)
 
