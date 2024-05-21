@@ -75,30 +75,27 @@ Hypothesis testing allows us to evaluate claims or hypotheses about population p
 - Experiment with different preprocessing techniques to optimize data quality.
 - Share feedback or suggest improvements to enhance the preprocessing system.
 
-# Linear Regression
-## Car Price Prediction with Linear Regression
+## Car Price Prediction different Algorithms
 
 [DATASET](https://drive.google.com/file/d/1aZp__A7mMpewcLwGbopkxQIKTG03vd41/view?usp=sharing)
 
 ## Introduction:
 
-Welcome to my project on predicting car prices using linear regression! I've analyzed a dataset containing information about different cars, like horsepower, mileage, and more. Using this data, I've built a model to predict car prices based on these features.
+In this project, we aim to predict car prices using various machine learning algorithms on the CarPrice dataset. This dataset includes features such as car make, model, engine size, and horsepower.
 
-## Objective:
+**We will use and compare the following five regression algorithms:**
 
-The goal is to develop a model that accurately estimates car prices based on their characteristics. We'll use linear regression to understand how features influence price and create a model for reliable predictions.
+***1.Linear Regression:*** Models the relationship between car price and its features using a straight line.
 
-### Approach:
+***2.Decision Tree Regressor:*** Splits the data into branches to make predictions based on feature values.
 
-- ***Data Exploration***: Understand the dataset's structure and relationships between features and prices.
-- ***Data Preprocessing***: Handle missing values, encode categorical variables, and scale numerical features.
-- ***Model Building***: Use linear regression to learn the relationship between input features and prices.
-- ***Model Evaluation***: Assess the model's performance using metrics like R-squared and Mean Squared Error.
-- ***Prediction***: Use the trained model to predict car prices.
+***3.Random Forest Regressor:*** Uses multiple decision trees to improve prediction accuracy.
 
-## Conclusion:
+***4.Gradient Boosting Regressor:*** Builds trees sequentially, where each tree tries to correct errors from the previous one.
 
-This project demonstrates how linear regression can predict car prices accurately. By analyzing the dataset and building a predictive model, we gain insights into factors influencing car prices and provide a practical tool for estimating values.
+***5.Support Vector Regressor (SVR):*** Fits the data within a margin, aiming to minimize prediction errors.
+
+Our goal is to evaluate these models based on their prediction accuracy and identify the best approach for predicting car prices. We will use performance metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) score to compare the models.
 
 # Clustering Analysis on the Iris Dataset
 
